@@ -8,6 +8,8 @@ function App() {
 	return (
 		<div className='App'>
 			<GithubUserInfo username='facebook' />
+			<GithubUserInfo username='netflix' />
+			<GithubUserInfo username='google' />
 			<GithubUserInfo username='super8989' />
 		</div>
 	);
